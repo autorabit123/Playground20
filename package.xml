@@ -829,6 +829,7 @@
         <members>Task</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
+        <members>URW_obj__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <name>CustomObject</name>
@@ -852,6 +853,7 @@
         <members>Property_Explorer1</members>
         <members>Property__c</members>
         <members>Sample_Data_Import</members>
+        <members>URW_obj__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -965,6 +967,7 @@
         <members>ScorecardMetric-Scorecard Metric Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>URW_obj__c-URW obj Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
@@ -1029,6 +1032,7 @@
         <members>SocialPersona.AllSocialPersonas</members>
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
+        <members>URW_obj__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
